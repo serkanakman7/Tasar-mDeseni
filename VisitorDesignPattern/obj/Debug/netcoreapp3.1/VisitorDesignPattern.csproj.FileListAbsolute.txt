@@ -1,0 +1,14 @@
+C:\Users\serka\source\repos\TasarımDeseni\VisitorDesignPattern\obj\Debug\netcoreapp3.1\VisitorDesignPattern.csproj.AssemblyReference.cache
+C:\Users\serka\source\repos\TasarımDeseni\VisitorDesignPattern\obj\Debug\netcoreapp3.1\VisitorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serka\source\repos\TasarımDeseni\VisitorDesignPattern\obj\Debug\netcoreapp3.1\VisitorDesignPattern.AssemblyInfoInputs.cache
+C:\Users\serka\source\repos\TasarımDeseni\VisitorDesignPattern\obj\Debug\netcoreapp3.1\VisitorDesignPattern.AssemblyInfo.cs
+C:\Users\serka\source\repos\TasarımDeseni\VisitorDesignPattern\obj\Debug\netcoreapp3.1\VisitorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\serka\source\repos\TasarımDeseni\VisitorDesignPattern\bin\Debug\netcoreapp3.1\VisitorDesignPattern.exe
+C:\Users\serka\source\repos\TasarımDeseni\VisitorDesignPattern\bin\Debug\netcoreapp3.1\VisitorDesignPattern.deps.json
+C:\Users\serka\source\repos\TasarımDeseni\VisitorDesignPattern\bin\Debug\netcoreapp3.1\VisitorDesignPattern.runtimeconfig.json
+C:\Users\serka\source\repos\TasarımDeseni\VisitorDesignPattern\bin\Debug\netcoreapp3.1\VisitorDesignPattern.runtimeconfig.dev.json
+C:\Users\serka\source\repos\TasarımDeseni\VisitorDesignPattern\bin\Debug\netcoreapp3.1\VisitorDesignPattern.dll
+C:\Users\serka\source\repos\TasarımDeseni\VisitorDesignPattern\bin\Debug\netcoreapp3.1\VisitorDesignPattern.pdb
+C:\Users\serka\source\repos\TasarımDeseni\VisitorDesignPattern\obj\Debug\netcoreapp3.1\VisitorDesignPattern.dll
+C:\Users\serka\source\repos\TasarımDeseni\VisitorDesignPattern\obj\Debug\netcoreapp3.1\VisitorDesignPattern.pdb
+C:\Users\serka\source\repos\TasarımDeseni\VisitorDesignPattern\obj\Debug\netcoreapp3.1\VisitorDesignPattern.genruntimeconfig.cache

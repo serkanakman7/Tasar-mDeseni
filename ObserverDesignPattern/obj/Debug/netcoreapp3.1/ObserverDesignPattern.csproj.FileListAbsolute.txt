@@ -1,0 +1,14 @@
+C:\Users\serka\source\repos\TasarımDeseni\ObserverDesignPattern\bin\Debug\netcoreapp3.1\ObserverDesignPattern.exe
+C:\Users\serka\source\repos\TasarımDeseni\ObserverDesignPattern\bin\Debug\netcoreapp3.1\ObserverDesignPattern.deps.json
+C:\Users\serka\source\repos\TasarımDeseni\ObserverDesignPattern\bin\Debug\netcoreapp3.1\ObserverDesignPattern.runtimeconfig.json
+C:\Users\serka\source\repos\TasarımDeseni\ObserverDesignPattern\bin\Debug\netcoreapp3.1\ObserverDesignPattern.runtimeconfig.dev.json
+C:\Users\serka\source\repos\TasarımDeseni\ObserverDesignPattern\bin\Debug\netcoreapp3.1\ObserverDesignPattern.dll
+C:\Users\serka\source\repos\TasarımDeseni\ObserverDesignPattern\bin\Debug\netcoreapp3.1\ObserverDesignPattern.pdb
+C:\Users\serka\source\repos\TasarımDeseni\ObserverDesignPattern\obj\Debug\netcoreapp3.1\ObserverDesignPattern.csproj.AssemblyReference.cache
+C:\Users\serka\source\repos\TasarımDeseni\ObserverDesignPattern\obj\Debug\netcoreapp3.1\ObserverDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serka\source\repos\TasarımDeseni\ObserverDesignPattern\obj\Debug\netcoreapp3.1\ObserverDesignPattern.AssemblyInfoInputs.cache
+C:\Users\serka\source\repos\TasarımDeseni\ObserverDesignPattern\obj\Debug\netcoreapp3.1\ObserverDesignPattern.AssemblyInfo.cs
+C:\Users\serka\source\repos\TasarımDeseni\ObserverDesignPattern\obj\Debug\netcoreapp3.1\ObserverDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\serka\source\repos\TasarımDeseni\ObserverDesignPattern\obj\Debug\netcoreapp3.1\ObserverDesignPattern.dll
+C:\Users\serka\source\repos\TasarımDeseni\ObserverDesignPattern\obj\Debug\netcoreapp3.1\ObserverDesignPattern.pdb
+C:\Users\serka\source\repos\TasarımDeseni\ObserverDesignPattern\obj\Debug\netcoreapp3.1\ObserverDesignPattern.genruntimeconfig.cache

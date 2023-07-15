@@ -1,0 +1,14 @@
+C:\Users\serka\source\repos\TasarımDeseni\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.csproj.AssemblyReference.cache
+C:\Users\serka\source\repos\TasarımDeseni\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serka\source\repos\TasarımDeseni\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\serka\source\repos\TasarımDeseni\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.AssemblyInfo.cs
+C:\Users\serka\source\repos\TasarımDeseni\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\serka\source\repos\TasarımDeseni\CompositeDesignPattern\bin\Debug\netcoreapp3.1\CompositeDesignPattern.exe
+C:\Users\serka\source\repos\TasarımDeseni\CompositeDesignPattern\bin\Debug\netcoreapp3.1\CompositeDesignPattern.deps.json
+C:\Users\serka\source\repos\TasarımDeseni\CompositeDesignPattern\bin\Debug\netcoreapp3.1\CompositeDesignPattern.runtimeconfig.json
+C:\Users\serka\source\repos\TasarımDeseni\CompositeDesignPattern\bin\Debug\netcoreapp3.1\CompositeDesignPattern.runtimeconfig.dev.json
+C:\Users\serka\source\repos\TasarımDeseni\CompositeDesignPattern\bin\Debug\netcoreapp3.1\CompositeDesignPattern.dll
+C:\Users\serka\source\repos\TasarımDeseni\CompositeDesignPattern\bin\Debug\netcoreapp3.1\CompositeDesignPattern.pdb
+C:\Users\serka\source\repos\TasarımDeseni\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.dll
+C:\Users\serka\source\repos\TasarımDeseni\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.pdb
+C:\Users\serka\source\repos\TasarımDeseni\CompositeDesignPattern\obj\Debug\netcoreapp3.1\CompositeDesignPattern.genruntimeconfig.cache
